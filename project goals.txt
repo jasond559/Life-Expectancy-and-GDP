@@ -1,0 +1,7 @@
+Scope of Project
+
+# goals for analyzing life expectancy and GDP
+1 - compare the life expectancy of several countries over the course of the years displayed in the data
+2 - compare the GDP of several countries over the course of the years displayed in the data
+3 - determine if there is a relationship between GDP and life expectancy
+4 - visualize the data in multiple ways
